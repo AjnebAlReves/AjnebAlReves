@@ -6,10 +6,10 @@ Soy una persona, a la que le gusta la programación, nada más
 
 # 🌱 Proyectos
 
-Soy de crear nuevos proyectos algunos mueren o no son los suficientemente decente para estar aqui.
+Soy de crear nuevos proyectos, algunos son buenos y otros... pues están por el hecho de ser hosteados aquí XD
 
 - Relevantes
-  - [TerriCraftland](https://TerriCraftland.tk/) Una pequeña cominidad de un servidor de minecraft
+  - [TerriCraftland](https://TerriCraftland.tk/) Una pequeña comunidad de un servidor de minecraft
 
 # 📫 Contacto
 
