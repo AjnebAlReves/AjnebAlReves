@@ -13,7 +13,7 @@ Soy de crear nuevos proyectos, algunos son buenos y otros... pues están por el 
 
 # 📫 Contacto
 
-En la mayoria o en gran parte de las redes sociales estoy como `AjnebAlRevés` o `FlyTerri MC` pero estas son las generales y de acceso rapido:
+En la mayoria de las redes sociales estoy como `AjnebAlRevés` o `FlyTerri MC` pero estas son las generales y de acceso rapido:
 
 |                     MEDIA                     |                          NOMBRE                                                   |
 | :-------------------------------------------: | :------------------------------------------------------:                          |
