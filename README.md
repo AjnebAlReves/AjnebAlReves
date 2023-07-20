@@ -3,9 +3,9 @@
 # ![llamada (chico)](https://github.com/AjnebAlReves/AjnebAlReves/assets/80727117/da002ce6-04a0-4961-87ec-4aee1d04acde) Discord y Telegram
 <details>
 <summary>Contacto</summary>
-- <strong>📱 Telegram</strong>: [@ByAlReves](https://byalreves.t.me)<br>
-- <strong>📺 Youtube</strong>: [@AjnebAlReves](https://youtube.com/@AjnebAlReves)<br>
-- <strong> 🖥️ Discord</strong>: [ajnebalreves](https://discord.gg/jDpk5n5z6U)<br>
+- <strong>📱 Telegram</strong>: <a href="https://byalreves.t.me">@ByAlReves</a><br>
+- <strong>📺 Youtube</strong>: <a href="https://youtube.com/@AjnebAlReves">@AjnebAlReves</a><br>
+- <strong> 🖥️ Discord</strong>: <a href="https://discord.gg/jDpk5n5z6U">@ajnebalreves</a><br>
 </details>
 
 # 📈 Stats
