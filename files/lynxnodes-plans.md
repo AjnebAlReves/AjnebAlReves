@@ -1,4 +1,4 @@
-# LynxNodes
+# Planes de LynxNodes
 
 ## TeamSpeak Plans
 - **💥 LynxNodes | Free Server**
