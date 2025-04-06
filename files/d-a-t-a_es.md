@@ -56,7 +56,7 @@ Si haces una pregunta directamente en lugar de solicitar atención primero, es m
 
 **Si sientes que es descortés simplemente hacer una pregunta, combina tu pregunta con una introducción.**
 
-> Tú: ¡Hola a todos, soy `<nombre>`! ¿Qué comando debo ejecutar para actualizar al nuevo SDK de Expo?
+> Tú: ¡Hola a todos, soy `<nombre>`! ¿Qué comando debo ejecutar para actualizar discord.js a la v14?
 
 Si haces una pregunta inmediatamente, nada te impide combinarla con la introducción que originalmente querías escribir primero, como en una carta. Esto no solo te da tiempo para formular y escribir sobre tu pregunta o problema antes de que otros lo vean, sino que también te permite presentarte.
 
