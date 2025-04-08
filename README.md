@@ -1,5 +1,8 @@
 # 🪁 | Welcome to my Profile!
 
+> *"Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús."*
+> **Filipenses 4:7** (RVR09)
+
 ¡Hola, kp! Bienvenid@ a mi corner en GitHub.  
 Soy un **Programador novato autodidacta** trabajando en proyectos súper interesantes.  
 Aquí encontrarás desde mi code base más estable hasta esos experiments que quedaron en el backlog. 😉
