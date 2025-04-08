@@ -10,7 +10,7 @@ Aquí encontrarás desde mi code base más estable hasta esos experiments que qu
 
 | Tech        | Nivel | Badge                                                                                         |
 | ----------- | ----- | --------------------------------------------------------------------------------------------- |
-| Linux       | 90%   | ![Bash](https://img.shields.io/badge/Bash-90%25-2d6a4f?style=flat-square)                     |
+| Bash (Linux) | 90%  | ![Bash](https://img.shields.io/badge/Bash-90%25-2d6a4f?style=flat-square)                     |
 | NodeJS      | 75%   | ![NodeJS](https://img.shields.io/badge/NodeJS-75%25-2d6a4f?style=flat-square)                 |
 | Astro       | 50%   | ![Astro](https://img.shields.io/badge/Astro-50%25-2d6a4f?style=flat-square)                   |
 | React       | 50%   | ![React](https://img.shields.io/badge/React-50%25-2d6a4f?style=flat-square)                   |
@@ -28,7 +28,17 @@ Aquí encontrarás desde mi code base más estable hasta esos experiments que qu
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajnebalreves&show_icons=true&theme=transparent&icon_color=2d6a4f&text_color=2d6a4f" alt="GitHub Stats" />
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ajnebalreves&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ajnebalreves&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajnebalreves&show_icons=true" />
+</picture>
 </div>
 
 ---
