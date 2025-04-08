@@ -10,7 +10,7 @@ Aquí encontrarás desde mi code base más estable hasta esos experiments que qu
 
 | Tech        | Nivel | Badge                                                                                         |
 | ----------- | ----- | --------------------------------------------------------------------------------------------- |
-| Bash (Linux) | 90%  | ![Bash](https://img.shields.io/badge/Bash-90%25-2d6a4f?style=flat-square)                     |
+| Linux       | 90%   | ![Bash](https://img.shields.io/badge/Bash-90%25-2d6a4f?style=flat-square)                     |
 | NodeJS      | 75%   | ![NodeJS](https://img.shields.io/badge/NodeJS-75%25-2d6a4f?style=flat-square)                 |
 | Astro       | 50%   | ![Astro](https://img.shields.io/badge/Astro-50%25-2d6a4f?style=flat-square)                   |
 | React       | 50%   | ![React](https://img.shields.io/badge/React-50%25-2d6a4f?style=flat-square)                   |
