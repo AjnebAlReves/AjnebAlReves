@@ -1,26 +1,48 @@
-# 🪁| ¡Welcome to my Profile!
-¡Hola! Bienvenid@ a mi perfil de GitHub. Soy un Programador novato Autodidacta que trabaja en muchas cosas interesantes. En este perfil podrás encontrar varios de mis proyectos personales o proyectos abandonados
+# 🪁 | Welcome to my Profile!
 
-# 🛠️ | Tecnologías que domino
-- 💻 Bash (Linux): 90%
-- ✨ NodeJS: 75%
-- 🚀 Astro: 50%
-- ⚛️ React: 50%
-- 🐍 Python: 15%
+¡Hola, kp! Bienvenid@ a mi corner en GitHub.  
+Soy un **Programador novato autodidacta** trabajando en proyectos súper interesantes.  
+Aquí encontrarás desde mi code base más estable hasta esos experiments que quedaron en el backlog. 😉
 
-# 🛠️ | Discord
+---
+
+## 🌱 Tecnologías que Domino
+
+| Tech        | Nivel | Badge                                                                                         |
+| ----------- | ----- | --------------------------------------------------------------------------------------------- |
+| Bash (Linux) | 90%  | ![Bash](https://img.shields.io/badge/Bash-90%25-2d6a4f?style=flat-square)                     |
+| NodeJS      | 75%   | ![NodeJS](https://img.shields.io/badge/NodeJS-75%25-2d6a4f?style=flat-square)                 |
+| Astro       | 50%   | ![Astro](https://img.shields.io/badge/Astro-50%25-2d6a4f?style=flat-square)                   |
+| React       | 50%   | ![React](https://img.shields.io/badge/React-50%25-2d6a4f?style=flat-square)                   |
+| Python      | 15%   | ![Python](https://img.shields.io/badge/Python-15%25-2d6a4f?style=flat-square)                 |
+
+---
+
+## 💬 Discord
+
+¡Mantenemos el canal activo!  
 ![Discord Status](https://api.zeew.dev/resources/discord/es/full_card/829540683739299882)
 
-# 📈 Stats
-![AjnebAlReves's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajnebalreves&show_icons=true&theme=transparent)
+---
 
-# 🚀 Proyectos Destacados
+## 📈 GitHub Stats
 
-### [MultiPtero Dashboard](https://github.com/MultiPtero/dashboard)
-Una interfaz de administración para servidores de todo tipo, diseñada para facilitar la gestión de los servidores mediante un panel interactivo e intuitivo. El panel aún está en desarrollo.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajnebalreves&show_icons=true&theme=transparent&icon_color=2d6a4f&text_color=2d6a4f" alt="GitHub Stats" />
+</div>
 
-### [DistopyCraft Bot](https://github.com/AjnebAlReves/distopycraft-bot)
-Bot para Discord creado para la comunidad de *DistopyCraft*. Cuenta con comandos personalizados y funcionalidad para integrarse con el servidor de Minecraft.
+---
 
-### [Discord.JS Guide Bot](https://github.com/AjnebAlReves/discordjs-basic-bot)
-Bot básico según la [guía oficial de Discord.JS](https://discordjs.guide). Normalmente solo es actualizado para "*bumpear*" la versión de Discord.JS o arreglos de bugs en los comandos.
+## 🚀 Proyectos Destacados
+
+### 🔧 [MultiPtero Dashboard](https://github.com/MultiPtero/dashboard)  
+> Interfaz de administración para servidores, diseñada para ofrecer una UX intuitiva y datos en tiempo real.  
+_Estatus: En desarrollo_
+
+### 🤖 [DistopyCraft Bot](https://github.com/AjnebAlReves/distopycraft-bot)  
+> Bot de Discord para la comunidad *DistopyCraft*, con comandos custom y conexión al servidor Minecraft.
+
+### 📚 [Discord.JS Guide Bot](https://github.com/AjnebAlReves/discordjs-basic-bot)  
+> Boilerplate según la [guía oficial de Discord.JS](https://discordjs.guide). Actualizaciones periódicas para bump de versión y fixes.
+
+---
