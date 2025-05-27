@@ -1,61 +1,59 @@
 # 🪁 | Welcome to my Profile!
 
-> *"Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús."*
+> *"Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús."*  
 > **Filipenses 4:7** (RVR09)
+
+---
 
 ¡Hola, kp! Bienvenid@ a mi corner en GitHub.  
 Soy un **Programador novato autodidacta** trabajando en proyectos súper interesantes.  
-Aquí encontrarás desde mi code base más estable hasta esos experiments que quedaron en el backlog. 😉
+Acá vas a encontrar desde mis bases más estables hasta esos experiments que quedaron en el backlog 😉.
 
 ---
 
 ## 🌱 Tecnologías que Domino
 
-| Tech        | Nivel | Badge                                                                                         |
-| ----------- | ----- | --------------------------------------------------------------------------------------------- |
-| Bash (Linux) | 90%  | ![Bash](https://img.shields.io/badge/Bash-90%25-2d6a4f?style=flat-square)                     |
-| NodeJS      | 75%   | ![NodeJS](https://img.shields.io/badge/NodeJS-75%25-2d6a4f?style=flat-square)                 |
-| Astro       | 50%   | ![Astro](https://img.shields.io/badge/Astro-50%25-2d6a4f?style=flat-square)                   |
-| React       | 50%   | ![React](https://img.shields.io/badge/React-50%25-2d6a4f?style=flat-square)                   |
-| Python      | 15%   | ![Python](https://img.shields.io/badge/Python-15%25-2d6a4f?style=flat-square)                 |
+| Tech         | Nivel | Badge                                                                                       |
+| ------------ | ----- | ------------------------------------------------------------------------------------------- |
+| Bash (Linux) | 90%   | ![Bash](https://img.shields.io/badge/Bash-90%25-4EAA25?logo=gnubash&logoColor=white)         |
+| Node.js      | 75%   | ![NodeJS](https://img.shields.io/badge/Node.js-75%25-339933?logo=nodedotjs&logoColor=white) |
+| Astro        | 50%   | ![Astro](https://img.shields.io/badge/Astro-50%25-FF5D01?logo=astro&logoColor=white)         |
+| React        | 50%   | ![React](https://img.shields.io/badge/React-50%25-61DAFB?logo=react&logoColor=black)         |
+| Python       | 15%   | ![Python](https://img.shields.io/badge/Python-15%25-3776AB?logo=python&logoColor=white)      |
 
 ---
 
-## 💬 Discord
-
-¡Mantenemos el canal activo!  
-![Discord Status](https://api.zeew.dev/resources/discord/es/full_card/829540683739299882)
-
+## 💬 Contacto:
+- **💻 Discord:** _@ajnebalreves__
+- **📱 Instagram:** _[@ajnebalreves](https://instagram.com/ajnebalreves)_
+- _X y Bluesky tengo, pero casi no uso, por lo que no los pondré_
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
   <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ajnebalreves&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ajnebalreves&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ajnebalreves&show_icons=true" />
-</picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=ajnebalreves&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=ajnebalreves&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ajnebalreves&show_icons=true" />
+  </picture>
 </div>
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### 🔧 [MultiPtero Dashboard](https://github.com/MultiPtero/dashboard)  
-> Interfaz de administración para servidores, diseñada para ofrecer una UX intuitiva y datos en tiempo real.  
-_Estatus: En desarrollo_
+> Te dejo algunos de los proyectos que más cariño les tengo y donde más aprendí 💡👇
 
-### 🤖 [DistopyCraft Bot](https://github.com/AjnebAlReves/distopycraft-bot)  
-> Bot de Discord para la comunidad *DistopyCraft*, con comandos custom y conexión al servidor Minecraft.
-
-### 📚 [Discord.JS Guide Bot](https://github.com/AjnebAlReves/discordjs-basic-bot)  
-> Boilerplate según la [guía oficial de Discord.JS](https://discordjs.guide). Actualizaciones periódicas para bump de versión y fixes.
+### 📚 [Discord.JS Guide Bot](https://github.com/AjnebAlReves/discordjs-basic-bot) ![Template](https://img.shields.io/badge/status-boilerplate-blue)
+⚙️ Boilerplate basado en la [guía oficial de Discord.JS](https://discordjs.guide).  
+Incluye actualizaciones periódicas y buenas prácticas.
 
 ---
+
+## 📬 ¿Colaboramos?
+
+¿Tenés ideas locas o querés sumar código?  
+**Abrí un issue, hacé un fork o escribime directo por Discord.**
+
+Nos leemos, kp 😎
