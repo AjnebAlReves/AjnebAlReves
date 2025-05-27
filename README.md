@@ -24,9 +24,10 @@ Acá vas a encontrar desde mis bases más estables hasta esos experiments que qu
 ---
 
 ## 💬 Contacto:
+- **✨ Website:** [byalreves-studio.xyz](https://byalreves-studio.xyz)
 - **💻 Discord:** _@ajnebalreves__
 - **📱 Instagram:** _[@ajnebalreves](https://instagram.com/ajnebalreves)_
-- _X y Bluesky tengo, pero casi no uso, por lo que no los pondré_
+> _Tengo otras redes como `X, Bluesky y TikTok` pero no son tan usadas_
 ---
 
 ## 📈 GitHub Stats
